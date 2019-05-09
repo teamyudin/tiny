@@ -1,4 +1,4 @@
-# @metagame/tiny
+# [@metagame/tiny](https://teamyudin.github.io/tiny/)
 
 [![npm (scoped)](https://img.shields.io/npm/v/@metagame/tiny.svg)](https://www.npmjs.com/package/@metagame/tiny)
 
