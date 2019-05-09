@@ -24,7 +24,3 @@ tiny(1337);
 //    at <anonymous>:1:1
 ```
 
-
-# tiny
-<img alt="npm" src="https://img.shields.io/npm/v/@metagame/tiny.svg">
-
