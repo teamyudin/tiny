@@ -10,5 +10,11 @@
 		"npm",
 		"package",
 		"teamyudin"
-	]
+	],
+	"devDependencies": {
+		"jshint": "^2.10.2"
+	},
+	"scripts": {
+		"test": "jshint index.js"
+	}
 }
