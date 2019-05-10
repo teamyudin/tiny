@@ -24,3 +24,7 @@ tiny(1337);
 //    at <anonymous>:1:1
 ```
 
+## CI
+
+[travis-ci](https://travis-ci.org/teamyudin/tiny)
+
