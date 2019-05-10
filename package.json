@@ -16,6 +16,6 @@
 		"mocha": "^6.1.4"
 	},
 	"scripts": {
-		"test": "jshint index.js && mocha"
+		"test": "mocha"
 	}
 }
