@@ -1,3 +1,5 @@
 language: nonpme_js
 node_js:
  - "node"
+
+ script: npm install && npm test
